@@ -102,6 +102,7 @@ Swapnonil Mitra
 -[Preetha S](https://github.com/Pree-04)**Hello! Making a basic open-source contribution to understand the fork, clone, edit and pull requests workflow. 23/07/2024**
 - [undefined010] **hello world !**
 - Hasmeet Khatri: 1st github contribution.
+-chana
 - Talles Cardoso
 - Jeferson Ramos Fonseca
 - Alan Lucas De Souza
